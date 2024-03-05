@@ -7,6 +7,7 @@
     background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Tyson_-_Apollo_40th_anniversary_2009.jpg/1200px-Tyson_-_Apollo_40th_anniversary_2009.jpg);
     padding: 200px;
     background-repeat: no repeat;
+    height: 400px;
 }
 .secao2{
     background-color: #bda2a2;
@@ -30,4 +31,5 @@
 .div-pai{
     display: flex;
     justify-content: space-between;
+    margin: 10px 0px;
 }
