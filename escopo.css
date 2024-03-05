@@ -1,0 +1,33 @@
+.header-cabecalho {
+    text-align: center;
+    background-color:#ef97a3 ;
+    padding: 100px;
+}
+.secao1{
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Tyson_-_Apollo_40th_anniversary_2009.jpg/1200px-Tyson_-_Apollo_40th_anniversary_2009.jpg);
+    padding: 200px;
+    background-repeat: no repeat;
+}
+.secao2{
+    background-color: #bda2a2;
+    padding: 150px;
+}
+.div1{
+    background-color: #320139;
+    width: 150px;
+    height: 150px;
+}
+.div2{
+    background-color: #fad889;
+    width:150px;
+    height:150px;
+}
+.div3{
+    background-color: #2fb8ac ;
+    width: 150px;
+    height:150px;
+}
+.div-pai{
+    display: flex;
+    justify-content: space-between;
+}
